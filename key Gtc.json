@@ -15,6 +15,6 @@
         "device_id": "2bde3d1341888220",
         "key": "pene",
         "expirydate": "15-06-2027",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
